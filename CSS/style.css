@@ -1,0 +1,26 @@
+body {
+    padding-top: 56px;
+}
+.profile-img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.modal-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.social-icon {
+    font-size: 2rem;
+    margin: 0 10px;
+    color: inherit;
+}
+.container{
+    max-width: 1000px;
+}
+
+.bg-gradient {
+    background: linear-gradient(90deg, #f8f9fa, #e9ecef);
+}
